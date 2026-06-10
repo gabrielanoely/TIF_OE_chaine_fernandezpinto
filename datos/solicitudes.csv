@@ -1,0 +1,8 @@
+id_solicitud,legajo,sector,fecha_inicio,fecha_fin,dias_solicitados,estado,motivo_rechazo
+1,1002,Deposito,2026-07-10,2026-07-14,5,APROBADA,
+2,1004,Recursos Humanos,2026-07-15,2026-07-19,5,APROBADA,
+3,1008,Atencion al Cliente,2026-08-01,2026-08-05,5,APROBADA,
+4,1010,Atencion al Cliente,2026-08-10,2026-08-16,7,APROBADA,
+5,1006,Administracion,2026-09-01,2026-09-05,5,APROBADA,
+6,1003,Operaciones,2026-07-12,2026-07-16,5,RECHAZADA,Conflicto de fechas con otro empleado del mismo sector
+7,1011,Deposito,2026-08-12,2026-08-18,7,RECHAZADA,Saldo insuficiente
